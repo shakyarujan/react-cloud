@@ -10,11 +10,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.js</code> and save to reload. 
-          Let's work on cloud deployment merging on first staging.
+          Edit <code>src/App.js</code> and save to reload. Let's work on cloud deployment merging on first staging.
         </p>
         <span>
-          <span>Learn </span>
+          <span>Learn to play</span>
           <a
             className="App-link"
             href="https://reactjs.org/"
