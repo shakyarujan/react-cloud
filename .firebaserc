@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "react-cloud-b474b"
+    "default": "react-cloud-b474b",
+    "staging": "react-cloud-staging"
   }
 }
